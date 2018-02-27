@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+hey guys!
+this is my first GitHub repository.
+and my firt commit ever
